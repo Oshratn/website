@@ -21,13 +21,13 @@ and asks several questions. In the club we ask ourselves these questions and the
 need to name what is really a key root cause.
 
 The term white supremacy brings to mind very extreme and violent manifestations. These still happen and cannot be tolerated. That being said, the biggest problem is talking
-about and addressing how much a white supremacy ideology permeates our culture. It is a problem that affects both the oppressors and the oppressed. 
+about and addressing how much a white supremacy ideology permeates our culture. It is a problem that affects the thinking of both the oppressors and the oppressed. 
 
 Reading the book and doing the exercises have helped me acknowledge these problems. I have also gotten more comfortable talking about them. Something useful that has come
 out of it is my ability to recognize and name things that are fundamental to the problem like Tone policing, Tokenization or White Saviorism.
 
 **Do you think inclusive naming initiatives should happen top-down or bottom-up?**
-My sense is grassroots, bottom-up is the way to do it. INI started with as and still includes a significant proprotion of white male faces. Lately, we have been seeing more different people
+My sense is grassroots, bottom-up is the way to do it. INI started with and still includes a significant proportion of white male faces. Lately, we have been seeing more different people
 join. My thought is - what we want to do is great, but we can’t act without the authority of the groups that are affected by this language. We would like to see members of
 these groups giving a stamp of approval in some way. This could be either by direct interaction. It can also take the form of providing consultation, guidance or
 recommendations. We need to find some way to encourage that representation involved in the process. Otherwise, it’s more of the same. People who don’t experience the problems
@@ -41,9 +41,9 @@ It has been used for decades and the discourse about changing it started as earl
 I have actually written code that used that terminology. I have worked with code that used that terminology. I have probably written related documentation that uses that
 terminology. All the while, it never dawned on me that this is problematic language.
 
-Over the last 18 months or so, developers in two of DOE's flagship simulation projects (Ale3d at LLNL and Sierra at SNL) have taken it upon themselves to rid their codebase of that language. I interviewed
-people on both those code teams and learned about that process. Managers in these projects had wanted to see this language change for many years. The problem
-was that they were lacking the credibility with the code teams to advocate for the change. The public discourse in the last year and a half around the George Floyd murder and the
+Over the last 18 months or so, developers in two of DOE's flagship simulation projects (Ale3d at LLNL and Sierra at SNL) have taken up the effort to rid their codebases of that language. I interviewed
+people on both code teams and learned about that process. Managers in these projects had wanted to see this language change for many years. The problem
+was that they were lacking the credibility with the code teams to advocate for investing the effort to make the change. The public discourse in the last year and a half around the George Floyd murder and the
 Black Lives Matter movement created an environment in which it was easy to get buy-in for changing this language.
 
 Once they decided that they were going to do it, it turned out to be more work than they had anticipated, because of how much it affects things. Finding replacement
